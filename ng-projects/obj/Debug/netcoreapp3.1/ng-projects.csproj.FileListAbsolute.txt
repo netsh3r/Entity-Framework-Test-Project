@@ -60,3 +60,67 @@ D:\C#\Entity Framework\ng-projects\ng-projects\obj\Debug\netcoreapp3.1\ng-projec
 D:\C#\Entity Framework\ng-projects\ng-projects\obj\Debug\netcoreapp3.1\ng-projects.dll
 D:\C#\Entity Framework\ng-projects\ng-projects\obj\Debug\netcoreapp3.1\ng-projects.pdb
 D:\C#\Entity Framework\ng-projects\ng-projects\obj\Debug\netcoreapp3.1\ng-projects.genruntimeconfig.cache
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\ng-projects.exe
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\ng-projects.deps.json
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\ng-projects.runtimeconfig.json
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\ng-projects.runtimeconfig.dev.json
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\ng-projects.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\ng-projects.pdb
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\obj\Debug\netcoreapp3.1\ng-projects.csprojAssemblyReference.cache
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\obj\Debug\netcoreapp3.1\ng-projects.AssemblyInfoInputs.cache
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\obj\Debug\netcoreapp3.1\ng-projects.AssemblyInfo.cs
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\obj\Debug\netcoreapp3.1\ng-projects.csproj.CoreCompileInputs.cache
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\obj\Debug\netcoreapp3.1\ng-projects.csproj.CopyComplete
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\obj\Debug\netcoreapp3.1\ng-projects.dll
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\obj\Debug\netcoreapp3.1\ng-projects.pdb
+D:\EF-test\Entity-Framework-Test-Project\ng-projects\obj\Debug\netcoreapp3.1\ng-projects.genruntimeconfig.cache
+D:\C#\Entity Framework\ng-projects\ng-projects\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\C#\Entity Framework\ng-projects\ng-projects\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

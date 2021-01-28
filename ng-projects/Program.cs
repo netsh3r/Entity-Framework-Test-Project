@@ -4,19 +4,16 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ng_projects
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-
             string line = Console.ReadLine();
 
             var manager = new UserManager();
 
-
             while (line != "exit")
             {
-
                 var arrgs = line.Split(new char[] { ' ' });
                 var meth = arrgs[0];
                 switch (meth)
@@ -46,7 +43,49 @@ namespace ng_projects
     }
 }
 
+
+
+
 /*
+ * solid, ооп - ( нас, инкапс, полим ) 
+ * Unit-тесты + ( nUnit ) 
+ * Доделать Project, Command ( вынести id в отдельный класс+ ) 
+ * Ammend last commit
+ * Разобраться с Интерфейсом и комментарями к методам
  * Реализовать автозаполнение и получения данных
  * Перенестси базу данных на сайт
+ * реализовать автозаполенние через чтения из файла***
  */
+
+
+//using System;
+//using Xunit;
+
+//namespace ng_projects.Tests
+//{
+//    public class UnitTest1
+//    {
+//        [Fact]
+//        public void DeleteTestMethod()
+//        {
+//            var manager = new UserManager();
+
+//            string line = "Delete 3";
+
+//            var arrgs = line.Split(new char[] { ' ' });
+
+//            var id = Convert.ToInt32(arrgs[1]);
+
+//            object expected = null;
+
+//            object actual =
+
+
+
+
+//           Assert.Equal(expected, );
+
+
+//        }
+//    }
+//}

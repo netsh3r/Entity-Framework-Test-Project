@@ -4,9 +4,7 @@ using Microsoft.EntityFrameworkCore;
 public class ApplicationContext : DbContext
 {
     public DbSet<User> Users { get; set; }
-
     public DbSet<Project> Projects { get; set; }
-
     public DbSet<Command> Commands { get; set; }
 
     public ApplicationContext()
